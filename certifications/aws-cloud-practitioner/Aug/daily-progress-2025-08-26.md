@@ -35,3 +35,6 @@ Additionally, compliance emerged as a new theme today. This is something I haven
 ## Tomorrow's Plan
 1. **Day (No Internet)**: Read *The Phoenix Project* - Chapter 6
 2. **Evening (1 hour online)**: Start [**AWS Cloud Practitioner Essentials**](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
+
+## Congratulation to myself
+![Congratulation](https://github.com/user-attachments/assets/febb1f53-ff90-4dd9-879b-0556536ea509)
