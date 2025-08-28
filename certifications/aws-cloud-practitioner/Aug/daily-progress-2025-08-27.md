@@ -3,7 +3,7 @@
 **Course**: [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) -- Introduction to the Cloud
 
 ### ✅ Completed Today
-- Module 1 of AWS course
+- 20% Module 1 of AWS course
 - Chapter 5 of The Pheonix Project
 
 ## Phase 0 Status
