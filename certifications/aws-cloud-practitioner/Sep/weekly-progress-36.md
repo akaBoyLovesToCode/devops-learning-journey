@@ -26,3 +26,11 @@ I can’t believe Bill resigned at the end of Part I, but fortunately he finally
 > When we have more than one project in the system at the same time, how do we protect the work from being interrupted or having its priority trumped by almost anyone in the business or someone else in IT?
 
 I doubt that this problem still exists nowadays. I saw a senior SRE engineer say that the owners of business projects usually urge him repeatedly to speed things up.
+
+## AWS Cloud Practioner Essentials
+
+### Module 2 - Compute in the Cloud
+
+The first time of test failed... I will try again tomorrow.
+
+![Module2_test](https://github.com/user-attachments/assets/644aea31-693b-4f83-a137-c2831ce9329d)
