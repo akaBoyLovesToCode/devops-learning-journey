@@ -3,12 +3,12 @@
 **Course**: [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) -- Compute in  the Cloud
 
 ### ✅ Completed this week
-- The most parts of Module 2
-- Chapter 11-15 of TPP
+- Module 2
+- Chapter 11-21 of TPP
 
 ## Week's Plan
 1. **Day (No Internet)**: Read *The Phoenix Project* - Part 1 & 2
-1. **Evening (1 hour online)**: [**AWS Cloud Practitioner Essentials**](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) Module 3-5
+1. **Evening (1 hour online)**: [**AWS Cloud Practitioner Essentials**](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) Module 2
 1. **K8s tutorial**
 
 ## The Pheonix Project
@@ -31,6 +31,8 @@ I doubt that this problem still exists nowadays. I saw a senior SRE engineer say
 
 ### Module 2 - Compute in the Cloud
 
+#### Assessment
+
 The first time of test failed... I will try again tomorrow.
 
 ![Module2_test](https://github.com/user-attachments/assets/644aea31-693b-4f83-a137-c2831ce9329d)
@@ -38,3 +40,7 @@ The first time of test failed... I will try again tomorrow.
 I did it!!!
 
 ![Module2_test_2](https://github.com/user-attachments/assets/7089a4f1-f4a0-4205-ab21-b102c4a2626c)
+
+#### Notes
+
+From now on, I’ll take notes with mind maps to reinforce my learning.
